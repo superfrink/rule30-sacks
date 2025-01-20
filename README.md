@@ -24,6 +24,9 @@ But those also occur for all numbers:
 The first 100,000 bits that are '1':
 ![Sacks spiral for 100,000 '1' bits](sacks-100000.png)
 
+The first 100,000 bits that are '1' with a 2:1 aspect ratio:
+![Sacks spiral for 100,000 '1' bits with 2:1 aspect ratio](sacks-100000-aspect-2-1.png)
+
 The first 500,768 bits that are '1', out of the first million bits:
 ![Sacks spiral for 500,768 '1' bits](sacks-500768.png)
 
