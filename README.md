@@ -15,6 +15,9 @@ gnuplot < chart-1.gnuplot ; mv output.png sacks-100000.png
 There appear to be some horizontal curves near the center:
 ![Horizontal lines near the center](horizontal-lines.png)
 
+But those also occur for all numbers:
+![All numbers](all-numbers.png)
+
 The first 100,000 bits:
 ![Sacks spiral for 100,000 bits](sacks-100000.png)
 
