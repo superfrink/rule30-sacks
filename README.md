@@ -16,6 +16,9 @@ There appear to be some horizontal curves near the center:
 ![Horizontal lines near the center](horizontal-lines.png)
 
 But those also occur for all numbers:
+
+> "The reason that the north and south progressions grow at twice the rate of the east and west progressions is that each north/south number is separated by two turns of the spiral." - https://www.naturalnumbers.org/sparticle.html
+
 ![All numbers](all-numbers.png)
 
 The first 100,000 bits that are '1':
