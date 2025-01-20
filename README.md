@@ -18,8 +18,11 @@ There appear to be some horizontal curves near the center:
 But those also occur for all numbers:
 ![All numbers](all-numbers.png)
 
-The first 100,000 bits:
-![Sacks spiral for 100,000 bits](sacks-100000.png)
+The first 100,000 bits that are '1':
+![Sacks spiral for 100,000 '1' bits](sacks-100000.png)
+
+The first 500,768 bits that are '1', out of the first million bits:
+![Sacks spiral for 500,768 '1' bits](sacks-500768.png)
 
 # References
 
