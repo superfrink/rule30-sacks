@@ -12,6 +12,9 @@ gnuplot < chart-1.gnuplot ; mv output.png sacks-100000.png
 
 # Output
 
+There appear to be some horizontal curves near the center:
+![Horizontal lines near the center](horizontal-lines.png)
+
 The first 100,000 bits:
 ![Sacks spiral for 100,000 bits](sacks-100000.png)
 
